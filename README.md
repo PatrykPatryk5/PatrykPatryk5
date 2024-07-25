@@ -8,7 +8,7 @@ Cześć! Jestem programistą z Polski, który specjalizuje się w tworzeniu bot�
 
 ## Projekty
 ### Muzykant
-Obecnie pracuję nad botem muzycznym o nazwie **Muzykant**, który jest w wczesnej fazie rozwoju. Muzykant ma na celu dostarczenie wysokiej jakości funkcji muzycznych na serwerach Discorda.
+Obecnie pracuję nad botem muzycznym o nazwie **Muzykant**, który jest w wczesnej fazie rozwoju. Muzykant ma na celu dostarczenie wysokiej jakości funkcji muzycznych oraz administracyjnych na serwerach Discord.
 
 ## Umiejętności
 - Tworzenie botów na Discorda
